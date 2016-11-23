@@ -22,17 +22,15 @@ In big schools with many students there can be multiple classes per grade level 
 =============================================================
 ### Features Implemented:
 
-*Primary features (implemented):
-
+* Primary features (implemented):
  Data model of students, classes, subjects and groups.
  Population of existing groups with students based on the subjects they are supposed to read and what classes they belong to.
 o The implementation must support both big and small school, and everything in between.
 
-*Secondary features (implemented):
-
+* Secondary features (implemented):
  Support minimum and maximum number of students in a group.
  Report unplaced students.
-================================
-### Features in progress
-*Tertiary features:
+=============================================================
+### Features needed to implemented(still in progress)
+* Tertiary features:
  Support group templates, with maximum number of groups allowed, to have population create the groups needed.
